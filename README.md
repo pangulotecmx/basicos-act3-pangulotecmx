@@ -3,4 +3,3 @@
 
 - 00 Hello World
 - 01 Operaciones Básicas
-- 02 Área Triángulo
